@@ -17,14 +17,14 @@ echo [38;2;255;255;0m        ╠══(2) cmd[0m
 echo [38;2;255;255;0m        ║[0m  
 echo [38;2;255;255;0m        ╠═══(3) custom cmd[0m  
 echo [38;2;255;255;0m        ║[0m  
-echo [38;2;255;255;0m        ╚╦═══(4) Vencord Installer (Discord hacked Client)[0m  
-echo [38;2;255;255;0m         ║[0m  
-echo [38;2;255;255;0m        ╚╦═══(5) putty[0m
-echo [38;2;255;255;0m         ║[0m  
-echo [38;2;255;255;0m        ╚╦═══(6) PC Crasher (only file)[0m  
-echo [38;2;255;255;0m         ║[0m  
-echo [38;2;255;255;0m        ╚╦═══(7) coming soon...[0m
-echo [38;2;255;255;0m         ║[0m
+echo [38;2;255;255;0m        ╠═══(4) Vencord Installer (Discord hacked Client)[0m  
+echo [38;2;255;255;0m        ║[0m  
+echo [38;2;255;255;0m        ╠═══(5) putty[0m
+echo [38;2;255;255;0m        ║[0m  
+echo [38;2;255;255;0m        ╠═══(6) PC Crasher (only file)[0m  
+echo [38;2;255;255;0m        ║[0m  
+echo [38;2;255;255;0m        ╠═══(7) coming soon...[0m
+echo [38;2;255;255;0m        ╚[0m
 echo.
 
 set /p "=>> " <nul
