@@ -1,4 +1,4 @@
-This file is a Batch-coded Multitool. To be able to use the Multitool drag the file named "multitool access" on your desktop. Now drag the rest of the file on your desktop. It is very important that the "multitool Access" and the file Folder named "multitool-hacks" are NOT in a Folder together. The "multitool-hacks" Folder should now stay like this, so do not edit, delete, or add any files to it.
+This file is a Batch-coded Multitool. To be able to use the Multitool drag the file named "multitool access" on your desktop. Now drag the rest of the file on your desktop. It is very important that the "multitool Access" file is NOT in the "multitool-hacks" Folder. The "multitool-hacks" Folder should now stay like this, so do not edit, delete, or add any files to it.
 
 To start the Multitool you want to open the file named "multitool access". It will ask you for a Password. If you type in the wrong Password the file will close automatically. To Access the Multitool, put the code "080893" in. The Multitool should open now. The Multitool and all the files it is able to open, only work on a System that is able to run Batch-scripted files.
 
